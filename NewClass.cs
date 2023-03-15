@@ -6,5 +6,6 @@ namespace ConsoleApp1
 {
     class NewClass
     {
+        //moja nova promjena
     }
 }
